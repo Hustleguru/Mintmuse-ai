@@ -1,1 +1,0 @@
-// Placeholder next.config.js content
